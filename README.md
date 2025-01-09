@@ -10,7 +10,8 @@ This blog dives into the core of the CAT3D paper, exploring its innovative appro
 
 ---
 
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/6c94696d-c2e5-4464-93be-85829605b337)
+
 
 
 ## The Challenge: Bridging the 2D to 3D Gap
@@ -30,7 +31,8 @@ CAT3D’s process consists of:
 - **Robust 3D Reconstruction**: These images are processed through a NeRF-based pipeline, optimized to handle minor inconsistencies using perceptual and photometric losses. The result is a fully-rendered 3D model that can be viewed from any angle.
 
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/cc8e1aea-57ce-4d67-91e5-e1a2f0b1430b)
+
 
 
 ---
@@ -50,7 +52,8 @@ CAT3D outperforms existing methods like ReconFusion and ZeroNVS across key metri
 The method’s design emphasizes simplicity and efficiency by decoupling view generation from 3D reconstruction. This allows CAT3D to achieve state-of-the-art quality while maintaining computational feasibility.
 
 
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/2594d817-9365-4653-884a-cbc6494ad3ef)
+
 
 
 ---
